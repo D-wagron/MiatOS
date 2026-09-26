@@ -1,7 +1,8 @@
-# MiatOS is a webOS that I made as part of the Stardance Hackclub challenge
+# MiatOS 
+
+A webOS that I made as part of the Stardance Hackclub challenge
 
 ---
-A webOS that I made as part of the Stardance Hackclub challenge
 
 # Apps
 
